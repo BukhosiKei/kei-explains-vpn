@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#050D1C"/>
+
+  <!-- tunnel background (blurred, big) -->
+  <ellipse cx="540" cy="1200" rx="600" ry="900" fill="#071426"/>
+  <ellipse cx="540" cy="1200" rx="520" ry="820" fill="none" stroke="#20A4FF" stroke-width="6" opacity="0.8"/>
+  <ellipse cx="540" cy="1200" rx="400" ry="700" fill="none" stroke="#20A4FF" stroke-width="5" opacity="0.6"/>
+  <ellipse cx="540" cy="1200" rx="280" ry="560" fill="none" stroke="#8DD8FF" stroke-width="4" opacity="0.4"/>
+  <ellipse cx="540" cy="1200" rx="160" ry="400" fill="none" stroke="#8DD8FF" stroke-width="3" opacity="0.3"/>
+</svg>

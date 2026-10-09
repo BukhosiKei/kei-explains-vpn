@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#071426"/>
+
+  <!-- soft glow disc behind the wordmark -->
+  <circle cx="540" cy="960" r="360" fill="#0B1F3A" opacity="0.6"/>
+  <circle cx="540" cy="960" r="280" fill="#0B1F3A"/>
+
+  <text x="540" y="880"
+        font-family="Arial, sans-serif" font-size="56" font-weight="400"
+        fill="#A9B8CC" text-anchor="middle" letter-spacing="6">PRESENTED BY</text>
+
+  <text x="540" y="1010"
+        font-family="Arial, sans-serif" font-size="118" font-weight="700"
+        fill="#20A4FF" text-anchor="middle">Kei Explains</text>
+
+  <line x1="340" y1="1075" x2="740" y2="1075"
+        stroke="#20A4FF" stroke-width="4" stroke-linecap="round"/>
+
+  <text x="540" y="1160"
+        font-family="Arial, sans-serif" font-size="42" font-weight="400"
+        fill="#8DD8FF" text-anchor="middle">AI &amp; Tech, Simply</text>
+</svg>

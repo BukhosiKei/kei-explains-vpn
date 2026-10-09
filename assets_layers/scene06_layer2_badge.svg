@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <g transform="translate(140,180)">
+    <rect x="0" y="0" width="800" height="130" rx="20"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="5"/>
+    <!-- small lock icon -->
+    <path d="M 50 60 Q 50 30 75 30 Q 100 30 100 60 L 100 78"
+          stroke="#20A4FF" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <rect x="40" y="78" width="70" height="46" rx="8" fill="#20A4FF"/>
+    <text x="480" y="88" font-family="Arial, sans-serif" font-size="58"
+          font-weight="700" fill="#20A4FF" text-anchor="middle"
+          letter-spacing="6">ENCRYPTED</text>
+  </g>
+</svg>

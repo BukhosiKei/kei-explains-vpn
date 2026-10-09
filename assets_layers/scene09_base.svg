@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#050D1C"/>
+
+  <!-- laptop -->
+  <g transform="translate(180,500)">
+    <rect x="0" y="0" width="720" height="480" rx="24"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="6"/>
+    <rect x="30" y="30" width="660" height="400" rx="12" fill="#0E2846"/>
+
+    <!-- eyes on the laptop screen (character) -->
+    <circle cx="300" cy="200" r="40" fill="#FFFFFF"/>
+    <circle cx="500" cy="200" r="40" fill="#FFFFFF"/>
+    <circle cx="310" cy="210" r="18" fill="#0B1F3A"/>
+    <circle cx="510" cy="210" r="18" fill="#0B1F3A"/>
+
+    <!-- little smile -->
+    <path d="M 360 300 Q 400 330 440 300"
+          stroke="#FFFFFF" stroke-width="6" fill="none" stroke-linecap="round"/>
+
+    <!-- IP box -->
+    <rect x="180" y="360" width="360" height="70" rx="12"
+          fill="#0B1F3A" stroke="#FF9A3C" stroke-width="3"/>
+    <text x="360" y="404" font-family="Arial, sans-serif" font-size="32"
+          font-weight="700" fill="#FF9A3C" text-anchor="middle"
+          letter-spacing="1">203.0.113.42</text>
+
+    <!-- hinge -->
+    <rect x="-30" y="480" width="780" height="30" rx="8"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="3"/>
+  </g>
+</svg>

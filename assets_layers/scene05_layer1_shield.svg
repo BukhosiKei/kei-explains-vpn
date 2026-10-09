@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <radialGradient id="shieldHalo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#20A4FF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#20A4FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="540" cy="1000" r="220" fill="url(#shieldHalo)"/>
+
+  <g transform="translate(360,760)">
+    <path d="M 180 0 L 360 70 L 360 260 Q 360 440 180 540 Q 0 440 0 260 L 0 70 Z"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="6"/>
+    <!-- padlock inside -->
+    <path d="M 130 180 Q 130 120 180 120 Q 230 120 230 180 L 230 210"
+          stroke="#20A4FF" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <rect x="110" y="210" width="140" height="120" rx="16" fill="#20A4FF"/>
+    <circle cx="180" cy="270" r="14" fill="#071426"/>
+    <rect x="174" y="270" width="12" height="34" fill="#071426"/>
+
+    <text x="180" y="400" font-family="Arial, sans-serif" font-size="52"
+          font-weight="700" fill="#20A4FF" text-anchor="middle"
+          letter-spacing="4">VPN</text>
+  </g>
+</svg>

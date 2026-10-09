@@ -1,0 +1,31 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# macOS
+.DS_Store
+._*
+
+# Render junk (intermediate files — don't publish these)
+temp_audio.*
+_old_scripts/
+scenes_composed/
+render_video_animated.py
+render_video.py
+diagnostic.py
+
+# All videos excluded by default...
+*.mp4
+# ...except the final one we want on GitHub
+!Video_06_What_Is_a_VPN_animated.mp4
+
+# Music (licensing — don't redistribute raw audio)
+music.mp3
+
+# PoC / test files
+poc_scene03.mp4

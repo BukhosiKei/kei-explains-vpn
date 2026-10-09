@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <text x="760" y="420" font-family="Arial, sans-serif" font-size="86"
+        font-weight="700" fill="#F5F9FF" text-anchor="middle"
+        letter-spacing="-1">WHO'S</text>
+  <text x="760" y="520" font-family="Arial, sans-serif" font-size="86"
+        font-weight="700" fill="#20A4FF" text-anchor="middle"
+        letter-spacing="-1">WATCHING?</text>
+
+  <!-- arrows pointing to watcher -->
+  <polygon points="600,580 560,540 560,620" fill="#8DD8FF" opacity="0.7"/>
+  <polygon points="520,620 480,580 480,660" fill="#8DD8FF" opacity="0.5"/>
+</svg>

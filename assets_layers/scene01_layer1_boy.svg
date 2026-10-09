@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <!-- boy character (geometric, side-view seated) -->
+  <g transform="translate(180,800)">
+    <!-- hair -->
+    <circle cx="140" cy="80" r="80" fill="#1A0F0A"/>
+    <circle cx="90"  cy="60" r="50" fill="#1A0F0A"/>
+    <circle cx="190" cy="60" r="50" fill="#1A0F0A"/>
+    <circle cx="70"  cy="120" r="34" fill="#1A0F0A"/>
+    <circle cx="210" cy="120" r="34" fill="#1A0F0A"/>
+
+    <!-- head -->
+    <circle cx="140" cy="130" r="70" fill="#8B5A3C"/>
+
+    <!-- eyes -->
+    <circle cx="118" cy="130" r="8" fill="#0B1F3A"/>
+    <circle cx="162" cy="130" r="8" fill="#0B1F3A"/>
+    <circle cx="120" cy="128" r="3" fill="#F5F9FF"/>
+    <circle cx="164" cy="128" r="3" fill="#F5F9FF"/>
+
+    <!-- smile -->
+    <path d="M 120 165 Q 140 180 160 165"
+          stroke="#0B1F3A" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+    <!-- neck -->
+    <rect x="120" y="195" width="40" height="30" fill="#8B5A3C"/>
+
+    <!-- hoodie / body -->
+    <path d="M 40 230 Q 140 200 240 230 L 250 500 L 30 500 Z"
+          fill="#1E3A8A" stroke="#20A4FF" stroke-width="3"/>
+
+    <!-- arm reaching to laptop -->
+    <path d="M 210 320 Q 300 380 380 400"
+          stroke="#1E3A8A" stroke-width="46" fill="none" stroke-linecap="round"/>
+    <path d="M 210 320 Q 300 380 380 400"
+          stroke="#20A4FF" stroke-width="3" fill="none" opacity="0.5"/>
+    <!-- hand -->
+    <circle cx="390" cy="405" r="22" fill="#8B5A3C"/>
+  </g>
+</svg>

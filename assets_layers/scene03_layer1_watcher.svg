@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <!-- silhouette figure with binoculars -->
+  <g transform="translate(160,900)">
+    <!-- hat -->
+    <path d="M 40 40 Q 140 10 240 40 L 250 80 L 30 80 Z"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="3"/>
+    <rect x="0" y="80" width="280" height="18" rx="9" fill="#0B1F3A"/>
+
+    <!-- head -->
+    <circle cx="140" cy="160" r="70" fill="#0B1F3A"/>
+
+    <!-- binoculars -->
+    <rect x="60" y="140" width="80" height="60" rx="10"
+          fill="#20A4FF" stroke="#8DD8FF" stroke-width="3"/>
+    <rect x="140" y="140" width="80" height="60" rx="10"
+          fill="#20A4FF" stroke="#8DD8FF" stroke-width="3"/>
+    <rect x="130" y="160" width="20" height="20" fill="#0B1F3A"/>
+
+    <!-- shoulders -->
+    <path d="M 10 260 Q 140 200 270 260 L 280 520 L 0 520 Z"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="3"/>
+  </g>
+</svg>

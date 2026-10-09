@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <!-- REAL IP (hidden) — left -->
+  <g transform="translate(100,300)">
+    <rect x="0" y="0" width="440" height="180" rx="20"
+          fill="#0B1F3A" stroke="#FF3B3B" stroke-width="4"/>
+    <text x="220" y="60" font-family="Arial, sans-serif" font-size="32"
+          font-weight="700" fill="#FF3B3B" text-anchor="middle"
+          letter-spacing="2">REAL IP</text>
+    <text x="220" y="120" font-family="Arial, sans-serif" font-size="48"
+          font-weight="700" fill="#A9B8CC" text-anchor="middle">( hidden )</text>
+  </g>
+
+  <!-- VPN IP (visible) — right -->
+  <g transform="translate(540,300)">
+    <rect x="0" y="0" width="440" height="180" rx="20"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="4"/>
+    <text x="220" y="60" font-family="Arial, sans-serif" font-size="32"
+          font-weight="700" fill="#20A4FF" text-anchor="middle"
+          letter-spacing="2">VPN IP</text>
+    <text x="220" y="120" font-family="Arial, sans-serif" font-size="48"
+          font-weight="700" fill="#20A4FF" text-anchor="middle">( visible )</text>
+  </g>
+
+  <!-- tagline at bottom -->
+  <text x="540" y="1700" font-family="Arial, sans-serif" font-size="40"
+        fill="#F5F9FF" text-anchor="middle">...not your real IP.</text>
+</svg>

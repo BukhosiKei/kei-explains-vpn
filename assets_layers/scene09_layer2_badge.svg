@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <g transform="translate(760,320)">
+    <rect x="0" y="0" width="260" height="90" rx="20"
+          fill="#FF9A3C"/>
+    <text x="130" y="60" font-family="Arial, sans-serif" font-size="40"
+          font-weight="700" fill="#071426" text-anchor="middle"
+          letter-spacing="2">VPN IP</text>
+  </g>
+</svg>

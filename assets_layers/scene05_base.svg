@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#050D1C"/>
+
+  <!-- tunnel mouth (concentric ovals) -->
+  <ellipse cx="540" cy="1000" rx="480" ry="700" fill="#071426"/>
+  <ellipse cx="540" cy="1000" rx="440" ry="660" fill="none" stroke="#20A4FF" stroke-width="6"/>
+  <ellipse cx="540" cy="1000" rx="380" ry="580" fill="none" stroke="#20A4FF" stroke-width="5" opacity="0.9"/>
+  <ellipse cx="540" cy="1000" rx="320" ry="500" fill="none" stroke="#20A4FF" stroke-width="4" opacity="0.75"/>
+  <ellipse cx="540" cy="1000" rx="260" ry="420" fill="none" stroke="#8DD8FF" stroke-width="3" opacity="0.6"/>
+  <ellipse cx="540" cy="1000" rx="200" ry="340" fill="none" stroke="#8DD8FF" stroke-width="3" opacity="0.4"/>
+  <ellipse cx="540" cy="1000" rx="140" ry="260" fill="none" stroke="#8DD8FF" stroke-width="2" opacity="0.3"/>
+  <ellipse cx="540" cy="1000" rx="80" ry="180" fill="#0B1F3A"/>
+  <ellipse cx="540" cy="1000" rx="40" ry="100" fill="#20A4FF" opacity="0.8"/>
+
+  <!-- light rays -->
+  <g stroke="#8DD8FF" stroke-width="2" opacity="0.4">
+    <line x1="540" y1="200" x2="540" y2="600"/>
+    <line x1="200" y1="400" x2="400" y2="700"/>
+    <line x1="880" y1="400" x2="680" y2="700"/>
+    <line x1="540" y1="1800" x2="540" y2="1400"/>
+    <line x1="200" y1="1600" x2="400" y2="1300"/>
+    <line x1="880" y1="1600" x2="680" y2="1300"/>
+  </g>
+</svg>

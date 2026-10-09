@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <!-- speech bubble asking who are you -->
+  <g transform="translate(80,300)">
+    <path d="M 0 60 Q 0 0 300 0 Q 600 0 600 60 L 600 140 Q 600 200 300 200 L 220 200 L 160 260 L 200 200 Q 0 200 0 140 Z"
+          fill="#F5F9FF" stroke="#20A4FF" stroke-width="4"/>
+    <text x="300" y="120" font-family="Arial, sans-serif" font-size="54"
+          font-weight="700" fill="#0B1F3A" text-anchor="middle">Who are you?</text>
+  </g>
+</svg>

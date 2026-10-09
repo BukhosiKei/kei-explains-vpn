@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <!-- arrow: You → VPN -->
+  <line x1="300" y1="990" x2="420" y2="990"
+        stroke="#20A4FF" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="420,975 445,990 420,1005" fill="#20A4FF"/>
+
+  <!-- arrow: VPN → Website -->
+  <line x1="660" y1="990" x2="770" y2="990"
+        stroke="#20A4FF" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="770,975 795,990 770,1005" fill="#20A4FF"/>
+</svg>

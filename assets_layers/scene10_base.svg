@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#050D1C"/>
+
+  <!-- desk + mug + laptop -->
+  <rect x="0" y="1400" width="1080" height="520" fill="#0B1F3A"/>
+  <line x1="0" y1="1400" x2="1080" y2="1400" stroke="#20A4FF" stroke-width="3" opacity="0.5"/>
+
+  <!-- mug -->
+  <g transform="translate(140,1290)">
+    <rect x="0" y="0" width="110" height="130" rx="10"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="3"/>
+    <path d="M 110 40 Q 145 40 145 80 Q 145 120 110 120"
+          fill="none" stroke="#20A4FF" stroke-width="3"/>
+    <text x="55" y="76" font-family="Arial, sans-serif" font-size="20"
+          font-weight="700" fill="#20A4FF" text-anchor="middle">GOOD</text>
+    <text x="55" y="100" font-family="Arial, sans-serif" font-size="20"
+          font-weight="700" fill="#20A4FF" text-anchor="middle">VIBES</text>
+  </g>
+</svg>

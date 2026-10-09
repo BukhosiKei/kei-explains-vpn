@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#050D1C"/>
+
+  <!-- three nodes -->
+  <!-- You (left) -->
+  <g transform="translate(80,900)">
+    <rect x="0" y="0" width="220" height="180" rx="20"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="4"/>
+    <text x="110" y="105" font-family="Arial, sans-serif" font-size="48"
+          font-weight="700" fill="#20A4FF" text-anchor="middle">YOU</text>
+  </g>
+
+  <!-- VPN Server (center) -->
+  <g transform="translate(430,840)">
+    <rect x="0" y="0" width="220" height="300" rx="20"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="5"/>
+    <path d="M 110 40 Q 110 10 110 10 Q 110 10 110 40 L 110 60"
+          stroke="none"/>
+    <g transform="translate(50,60)">
+      <path d="M 60 0 L 120 30 L 120 100 Q 120 170 60 200 Q 0 170 0 100 L 0 30 Z"
+            fill="#20A4FF" stroke="#8DD8FF" stroke-width="3"/>
+      <text x="60" y="130" font-family="Arial, sans-serif" font-size="28"
+            font-weight="700" fill="#071426" text-anchor="middle">VPN</text>
+    </g>
+    <text x="110" y="270" font-family="Arial, sans-serif" font-size="24"
+          font-weight="700" fill="#20A4FF" text-anchor="middle">VPN SERVER</text>
+  </g>
+
+  <!-- Website (right) -->
+  <g transform="translate(780,900)">
+    <rect x="0" y="0" width="220" height="180" rx="20"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="4"/>
+    <circle cx="110" cy="90" r="46" fill="none" stroke="#20A4FF" stroke-width="4"/>
+    <ellipse cx="110" cy="90" rx="46" ry="20" fill="none" stroke="#20A4FF" stroke-width="4"/>
+    <line x1="64" y1="90" x2="156" y2="90" stroke="#20A4FF" stroke-width="4"/>
+    <text x="110" y="165" font-family="Arial, sans-serif" font-size="24"
+          font-weight="700" fill="#20A4FF" text-anchor="middle">WEBSITE</text>
+  </g>
+</svg>

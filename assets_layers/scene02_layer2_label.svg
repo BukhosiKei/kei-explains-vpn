@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect x="140" y="1560" width="800" height="100" rx="20"
+        fill="#0B1F3A" stroke="#20A4FF" stroke-width="4"/>
+  <text x="540" y="1625" font-family="Arial, sans-serif" font-size="44"
+        font-weight="700" fill="#20A4FF" text-anchor="middle"
+        letter-spacing="2">YOUR INTERNET TRAFFIC</text>
+</svg>

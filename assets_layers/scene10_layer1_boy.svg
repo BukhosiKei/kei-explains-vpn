@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <!-- boy (small, seated right) -->
+  <g transform="translate(500,900)">
+    <circle cx="130" cy="120" r="60" fill="#1A0F0A"/>
+    <circle cx="90"  cy="100" r="40" fill="#1A0F0A"/>
+    <circle cx="170" cy="100" r="40" fill="#1A0F0A"/>
+    <circle cx="130" cy="160" r="65" fill="#8B5A3C"/>
+    <circle cx="108" cy="158" r="7" fill="#0B1F3A"/>
+    <circle cx="152" cy="158" r="7" fill="#0B1F3A"/>
+    <path d="M 110 195 Q 130 210 150 195"
+          stroke="#0B1F3A" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M 40 260 Q 130 230 220 260 L 230 500 L 30 500 Z"
+          fill="#1E3A8A" stroke="#20A4FF" stroke-width="3"/>
+  </g>
+</svg>

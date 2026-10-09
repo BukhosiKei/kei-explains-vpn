@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:02,500
+What is a VPN?
+
+2
+00:00:02,500 --> 00:00:06,000
+Every time you go online,
+your data travels across a public road.
+
+3
+00:00:06,000 --> 00:00:10,000
+Anyone along the way
+could look at what you're doing.
+
+4
+00:00:10,000 --> 00:00:14,500
+A VPN creates a private tunnel
+between your device and the internet.
+
+5
+00:00:14,500 --> 00:00:19,000
+Your data travels through it, scrambled —
+unreadable to anyone outside.
+
+6
+00:00:19,000 --> 00:00:24,000
+The website sees the VPN,
+not your real address.
+
+7
+00:00:24,000 --> 00:00:28,500
+In short:
+a VPN is a private tunnel for your data.

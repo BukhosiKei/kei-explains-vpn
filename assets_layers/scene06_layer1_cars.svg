@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <!-- envelope-cars inside tunnel -->
+  <g transform="translate(420,1480)">
+    <rect x="0" y="14" width="90" height="60" rx="10" fill="#20A4FF"/>
+    <rect x="14" y="0" width="60" height="30" rx="8" fill="#20A4FF" opacity="0.9"/>
+  </g>
+  <g transform="translate(560,1380)" opacity="0.8">
+    <rect x="0" y="10" width="70" height="50" rx="8" fill="#20A4FF"/>
+    <rect x="10" y="0" width="50" height="24" rx="6" fill="#20A4FF" opacity="0.9"/>
+  </g>
+  <g transform="translate(440,1280)" opacity="0.6">
+    <rect x="0" y="8" width="60" height="40" rx="6" fill="#8DD8FF"/>
+    <rect x="8" y="0" width="44" height="20" rx="5" fill="#8DD8FF" opacity="0.9"/>
+  </g>
+
+  <!-- frustrated hacker on the right with X icon -->
+  <g transform="translate(860,850)">
+    <circle cx="60" cy="60" r="70" fill="#0B1F3A" stroke="#FF3B3B" stroke-width="4"/>
+    <path d="M 20 30 Q 40 20 60 30" stroke="#FF3B3B" stroke-width="4" fill="none"/>
+    <path d="M 70 30 Q 90 20 110 30" stroke="#FF3B3B" stroke-width="4" fill="none"/>
+    <circle cx="35" cy="65" r="5" fill="#FF3B3B"/>
+    <circle cx="85" cy="65" r="5" fill="#FF3B3B"/>
+    <path d="M 30 100 Q 60 80 90 100" stroke="#FF3B3B" stroke-width="4" fill="none"/>
+
+    <!-- X mark above -->
+    <g transform="translate(0,-140)">
+      <circle cx="60" cy="60" r="50" fill="#FF3B3B" opacity="0.9"/>
+      <line x1="35" y1="35" x2="85" y2="85" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+      <line x1="85" y1="35" x2="35" y2="85" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

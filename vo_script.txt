@@ -1,0 +1,19 @@
+What is a VPN?
+
+Every time you go online,
+your data travels across a public road.
+
+Anyone along the way
+could look at what you're doing.
+
+A VPN creates a private tunnel
+between your device and the internet.
+
+Your data travels through it, scrambled —
+unreadable to anyone outside.
+
+The website sees the VPN,
+not your real address.
+
+In short:
+a VPN is a private tunnel for your data.

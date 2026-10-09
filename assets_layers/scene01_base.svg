@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A1830"/>
+      <stop offset="100%" stop-color="#050D1C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bg1)"/>
+
+  <!-- desk -->
+  <rect x="0" y="1380" width="1080" height="540" fill="#0B1F3A"/>
+  <rect x="0" y="1380" width="1080" height="8" fill="#20A4FF" opacity="0.4"/>
+
+  <!-- laptop on desk -->
+  <g transform="translate(560,1080)">
+    <!-- screen -->
+    <rect x="0" y="0" width="380" height="260" rx="14"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="4"/>
+    <rect x="18" y="18" width="344" height="224" rx="6" fill="#0E2846"/>
+    <!-- apple logo -->
+    <text x="190" y="150" font-family="Arial, sans-serif" font-size="70"
+          font-weight="700" fill="#8DD8FF" text-anchor="middle"></text>
+    <!-- hinge -->
+    <rect x="-20" y="260" width="420" height="20" rx="6"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="3"/>
+  </g>
+
+  <!-- coffee mug -->
+  <g transform="translate(150,1260)">
+    <rect x="0" y="0" width="120" height="140" rx="10"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="3"/>
+    <path d="M 120 40 Q 160 40 160 80 Q 160 120 120 120"
+          fill="none" stroke="#20A4FF" stroke-width="3"/>
+    <text x="60" y="80" font-family="Arial, sans-serif" font-size="22"
+          font-weight="700" fill="#20A4FF" text-anchor="middle">GOOD</text>
+    <text x="60" y="105" font-family="Arial, sans-serif" font-size="22"
+          font-weight="700" fill="#20A4FF" text-anchor="middle">VIBES</text>
+  </g>
+</svg>

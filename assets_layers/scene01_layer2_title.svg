@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <text x="700" y="400" font-family="Arial, sans-serif" font-size="52"
+        font-weight="700" fill="#F5F9FF" text-anchor="middle"
+        letter-spacing="2">WHAT IS A</text>
+
+  <text x="700" y="540" font-family="Arial, sans-serif" font-size="130"
+        font-weight="700" fill="#20A4FF" text-anchor="middle"
+        letter-spacing="-2">VPN?</text>
+</svg>

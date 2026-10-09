@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="sky2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1B1444"/>
+      <stop offset="60%" stop-color="#3A2A6B"/>
+      <stop offset="100%" stop-color="#0A1830"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#sky2)"/>
+
+  <!-- distant city skyline -->
+  <g fill="#0B1F3A" opacity="0.8">
+    <rect x="0" y="900" width="90" height="200"/>
+    <rect x="90" y="820" width="70" height="280"/>
+    <rect x="160" y="880" width="80" height="220"/>
+    <rect x="240" y="780" width="60" height="320"/>
+    <rect x="300" y="860" width="90" height="240"/>
+    <rect x="390" y="800" width="70" height="300"/>
+    <rect x="460" y="870" width="80" height="230"/>
+    <rect x="540" y="760" width="70" height="340"/>
+    <rect x="610" y="850" width="90" height="250"/>
+    <rect x="700" y="810" width="70" height="290"/>
+    <rect x="770" y="870" width="90" height="230"/>
+    <rect x="860" y="820" width="70" height="280"/>
+    <rect x="930" y="880" width="80" height="220"/>
+    <rect x="1010" y="840" width="70" height="260"/>
+  </g>
+
+  <!-- scattered window lights -->
+  <g fill="#20A4FF" opacity="0.6">
+    <rect x="30" y="940" width="6" height="8"/>
+    <rect x="60" y="980" width="6" height="8"/>
+    <rect x="120" y="890" width="6" height="8"/>
+    <rect x="260" y="830" width="6" height="8"/>
+    <rect x="420" y="880" width="6" height="8"/>
+    <rect x="570" y="820" width="6" height="8"/>
+    <rect x="720" y="870" width="6" height="8"/>
+    <rect x="900" y="870" width="6" height="8"/>
+  </g>
+
+  <!-- road -->
+  <rect x="0" y="1100" width="1080" height="820" fill="#1A1A2E"/>
+
+  <!-- lane dashes -->
+  <g fill="#8DD8FF" opacity="0.5">
+    <rect x="540" y="1180" width="14" height="60"/>
+    <rect x="540" y="1300" width="14" height="60"/>
+    <rect x="540" y="1420" width="14" height="60"/>
+    <rect x="540" y="1540" width="14" height="60"/>
+    <rect x="540" y="1660" width="14" height="60"/>
+    <rect x="540" y="1780" width="14" height="60"/>
+  </g>
+
+  <!-- "THE INTERNET" sign overhead -->
+  <g transform="translate(0,700)">
+    <line x1="140" y1="40" x2="140" y2="220" stroke="#20A4FF" stroke-width="6"/>
+    <line x1="940" y1="40" x2="940" y2="220" stroke="#20A4FF" stroke-width="6"/>
+    <rect x="120" y="20" width="840" height="140" rx="14"
+          fill="#0B1F3A" stroke="#20A4FF" stroke-width="5"/>
+    <text x="540" y="115" font-family="Arial, sans-serif" font-size="60"
+          font-weight="700" fill="#20A4FF" text-anchor="middle"
+          letter-spacing="4">THE INTERNET</text>
+  </g>
+</svg>
